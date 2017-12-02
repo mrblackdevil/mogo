@@ -1,0 +1,31 @@
+		 * {
+            margin: 0;
+            padding: 0;
+            line-height: 1.5;
+            font-family: sans;
+        }
+        .content {
+            width: 1000px;
+            margin: 30px auto;
+        }
+        .content p {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+        .totop {
+            position: fixed;
+            bottom: 50px;
+            right: 50px;
+            cursor: pointer;
+            display: none;
+            background: linear-gradient(to left, #f38181,#c1c1c1);
+            color: #fff;
+            border-radius: 50%;
+            height: 50px;
+            line-height: 0px;
+            padding: 25px 25px;
+            font-size: 18px;
+        }
+          .totop:hover {
+            background: linear-gradient(to left, #f38181,#fce38a);
+          }

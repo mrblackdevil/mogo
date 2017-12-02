@@ -1,0 +1,25 @@
+/* font-family: "KaushanScriptRegular"; */
+@font-face {
+	font-family: 'kaushanscript';
+	src: url("../fonts/KaushanScript-Regular.ttf") format('truetype');
+}
+/* font-family: Montserrat-Bold"; */
+@font-face {
+	font-family: 'montserrat-b';
+	src: url("../fonts/Montserrat-Bold.ttf") format('truetype');
+}
+/* font-family: Montserrat-Regular"; */
+@font-face {
+	font-family: 'montserrat-r';
+	src: url("../fonts/Montserrat-Regular.ttf") format('truetype');
+}
+/* font-family: Roboto-Italic"; */
+@font-face {
+	font-family: 'roboto-i';
+	src: url("../fonts/Roboto-Italic.ttf") format('truetype');
+}
+/* font-family: RobotoRegular"; */
+@font-face {
+	font-family: 'roboto-r';
+	src: url("../fonts/RobotoRegular.ttf") format('truetype');
+}
